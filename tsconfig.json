@@ -17,17 +17,11 @@
       "dom"
     ],
     "paths": {
-      "pdfjs-box2": [
-        "dist/pdfjs-box2"
+      "config": [
+        "dist/config"
       ],
-      "pdfjs-box2/*": [
-        "dist/pdfjs-box2/*"
-      ],
-      "hh-common": [
-        "dist/hh-common"
-      ],
-      "hh-common/*": [
-        "dist/hh-common/*"
+      "config/*": [
+        "dist/config/*"
       ]
     }
   }

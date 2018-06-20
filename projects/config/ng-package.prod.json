@@ -1,7 +1,6 @@
 {
   "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
-  "dest": "../../dist/hh-common",
-  "deleteDestPath": false,
+  "dest": "../../dist/config",
   "lib": {
     "entryFile": "src/public_api.ts"
   }
